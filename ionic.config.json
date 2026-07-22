@@ -1,0 +1,8 @@
+{
+  "name": "structuralAssessor",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
